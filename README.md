@@ -20,7 +20,7 @@ Yazılım dünyasına C ile sağlam bir giriş yaptım ve şu anda Python ile G�
 
 # Hi there, I'm Onur! 👋
 
-**Computer Engineering Student (1st Year)**
+**Computer Engineering Student (2st Year)**
 
 I made a strong entry into the software world with **C** and I am currently improving myself in **Python**, **Computer Vision**, and **AI**.
 
