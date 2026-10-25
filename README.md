@@ -1,6 +1,6 @@
 # Selamlar, ben Onur! 👋
 
-**Bilgisayar Mühendisliği 1. Sınıf Öğrencisi**
+**Bilgisayar Mühendisliği 2. Sınıf Öğrencisi**
 
 Yazılım dünyasına C ile sağlam bir giriş yaptım ve şu anda Python ile Görüntü İşleme (Computer Vision) ve Yapay Zeka alanlarında kendimi geliştiriyorum.
 
